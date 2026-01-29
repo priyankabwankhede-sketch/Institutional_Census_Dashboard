@@ -12,7 +12,7 @@ This Power BI dashboard visualizes student enrollment, degrees awarded, and rete
 
 ## Demo Video
 
-![Dashboard Demo](media/dashboard_demo.mp4)
+https://github.com/priyankabwankhede-sketch/Institutional_Census_Dashboard/releases/tag/v1.0.0
 
 ## Data
 
